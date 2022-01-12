@@ -1,4 +1,4 @@
 # Etch-A-Sketch
 
 
-Etch-a-sketch built utilizing DOM manipulation
+Etch-a-sketch built with DOM manipulation
